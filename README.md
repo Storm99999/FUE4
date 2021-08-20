@@ -40,4 +40,4 @@ A Fortnite DLL which you can use to get stats, aes, news. Quickly.
   
     ```cs
     FUE4.Important.Providers.DefaultAccessProvider.ProvideStatsExport("EPIC ACCOUNT ID (FORTNITE)", "MyStats.txt");
-  ```
+      ```
